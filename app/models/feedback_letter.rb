@@ -1,0 +1,4 @@
+class FeedbackLetter < ApplicationRecord
+
+
+end
